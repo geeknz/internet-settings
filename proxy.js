@@ -3,7 +3,7 @@
  *
  * @module Proxy
  * @author Colin Campbell coder@colin.geek.nz
-  */
+ */
 define( function() {
 
 	/**
@@ -39,7 +39,7 @@ define( function() {
 	/**
 	 * Generates a proxy from a string
 	 *
-	 * @param {String} proxy - the proxy
+	 * @param {string} proxy - the proxy
 	 * @returns {Proxy}
 	 */
 	Proxy.parseString = function( proxy ) {
